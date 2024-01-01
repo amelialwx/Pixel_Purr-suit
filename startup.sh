@@ -31,7 +31,7 @@ echo "Installing dependencies..."
 pip install -r requirements.txt
 
 echo "Starting the application..."
-$PYTHON_CMD runner.py
+$PYTHON_CMD code/runner.py
 
 if [ $? -ne 0 ]; then
     echo "Failed to start runner.py. Please check the file path and permissions."
