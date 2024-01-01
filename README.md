@@ -24,8 +24,13 @@ If Python is not installed, download the latest version from [Python's official 
 
 **Running the app**
 
-Start the game easily with the startup script:
+1. Clone the repository:
 ```
+git clone https://github.com/amelialwx/Pixel_Purr-suit.git
+```
+2. Navigate into the project folder and start the game easily with the startup script:
+```
+cd Pixel_Purr-suit
 sh startup.sh
 ```
 
