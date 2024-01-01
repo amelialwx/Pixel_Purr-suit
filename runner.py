@@ -234,4 +234,4 @@ while True:
             displayFinalScore(f'Highscore: {highscoreData["highscore"]}', gameFontSm, (S.SCREEN_WIDTH/2, S.FINAL_SCORE_Y))
 
     pygame.display.update()
-    clock.tick(60)
+    clock.tick(S.FPS)
