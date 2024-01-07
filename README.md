@@ -1,6 +1,6 @@
 # Pixel Purr-suit
 ![Pixel Purr-suit](graphics/Pixel_Purr-suit.gif)
-**Welcome to "Pixel Purr-suit"!** Step into the world of paw-sitively thrilling pixel art as you join Purrtricia, a fearless feline adventurer with a nose for trouble. In this pixel runner game, you'll guide Purrtricia through a vibrant, perilous journey. 
+**Welcome to "Pixel Purr-suit"!** Step into the world of paw-sitively thrilling pixel art as you join Purrtricia, a fearless feline adventurer with a nose for trouble. In this pixel runner game, you'll guide Purrtricia through a vibrant, perilous journey. Play the game online [here](https://amelialwx.itch.io/pixel-purr-suit)!
 
 ## Controls
 Jump/restart: `spacebar`
